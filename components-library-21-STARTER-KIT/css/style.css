@@ -1,0 +1,21 @@
+/* --- Components design --- */
+@import url("components/avatar.css");
+
+/* TODO: import new components */
+
+/* --- Fonts & colors --- */
+body {
+  font-family: "Open Sans", "Helvetica", "sans-serif";
+  padding-bottom: 200px;
+  background-color: rgb(230,230,230);
+}
+h1, h2, h3 {
+  font-family: "Montserrat", "sans-serif";
+}
+.container {
+  max-width: 900px;
+  margin: 50px auto;
+}
+.text-center {
+  text-align: center;
+}
